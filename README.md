@@ -19,8 +19,8 @@
 - [GitHub Account](https://github.com)
 - GitBash ([Download](https://git-scm.com/downloads))
 
-```bash
-# 1. Push to GitHub using Gitbash
+
+ 1. Push to GitHub using Gitbash
 The first step is to push your codes to Github using my guide at https://nucloud.hashnode.dev/pushing-my-first-indexhtml-file-to-github-using-git-bash
 
 # 2. Login to Azure using Gitbash using the command ....marked red in the images...
@@ -37,8 +37,6 @@ follow my guide at https://nucloud.hashnode.dev/enabling-the-microsoftweb-resour
 
 # 3. Create your WebApp using the command
 ![4 web app](https://github.com/user-attachments/assets/36b7715b-3fe4-4ec4-8bc8-3ad153f5cf32)
-
-
 
 
 
